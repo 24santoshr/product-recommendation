@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/santosh/Desktop/home-task/target/scala-2.12/home-task_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Configuration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/Configuration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimilarArticles.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/SimilarArticles.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/Engine$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArticleData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/ArticleData$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/Engine.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ArticleData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/ArticleData.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatchingCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/MatchingCount$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/log4j.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SimilarArticles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/SimilarArticles$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/Engine$$typecreator2$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	MatchingCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/MatchingCount.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Engine$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/santosh/Desktop/home-task/target/scala-2.12/classes/Engine$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

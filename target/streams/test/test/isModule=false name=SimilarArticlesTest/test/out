@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mSimilarArticlesTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mSimilarArticles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should load items correctly from the json data file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should extract item correctly from the json data file[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should match attributes of items correctly[0m[0m
